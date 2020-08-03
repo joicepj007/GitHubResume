@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@+id/navigation_home">
+
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.android.githubresumebuilder.resume.presentation.fragments.ResumeBuilderFragment"
+        android:label="Github User"
+        tools:layout="@layout/resume_builder_fragment">
+
+        <action
+            android:id="@+id/action_navigation_home_to_detailTeamFragment"
+            app:destination="@id/detailFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@+id/navigation_home"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.android.githubresumebuilder.resume.presentation.fragments.ResumeDetailFragment"
+        android:label=""
+        tools:layout="@layout/resume_detail_fragment"
+        />
+
+
+</navigation>

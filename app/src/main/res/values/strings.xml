@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GithubResumeBuilder</string>
+    <string name="some_error">ERROR</string>
+
+    <!--error messages-->
+    <string name="error_no_daata">No Data Available 😓</string>
+    <string name="error_internet_connetion">No Internet Connection 😓</string>
+
+    <string name="search_edt_hint">Enter Username</string>
+    <string name="search_item_image_view_desc">search item Image View</string>
+    <string name="error_text">Please enter the github username</string>
+    <string name="error_data">Something went wrong! Please try again later.</string>
+
+
+    <string name="network_error_text">Please check your network settings.</string>
+    <string name="tv_websites">Website: </string>
+    <string name="tv_public_repo">Public Repositories: </string>
+    <string name="followers">Followers: </string>
+    <string name="blog">Blog: </string>
+    <string name="location">Location: </string>
+    <string name="str_user_check">\"Please enter a valid username \"</string>
+</resources>

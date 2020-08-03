@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progress_bar_width">48dp</dimen>
+    <dimen name="progress_bar_height">48dp</dimen>
+
+    <dimen name="search_rv_item_space">6dp</dimen>
+    <dimen name="search_cardview_padding_top">10dp</dimen>
+    <dimen name="search_cardview_padding_bottom">10dp</dimen>
+    <dimen name="search_textview_margin">4dp</dimen>
+    <dimen name="search_textview_padding">5dp</dimen>
+    <dimen name="search_detail_layout_padding">15dp</dimen>
+    <dimen name="search_detail_textview_margintop">10dp</dimen>
+    <dimen name="search_detail_textview_marginbottom">15dp</dimen>
+    <dimen name="search_detail_textview_margin_start">16dp</dimen>
+    <dimen name="search_detail_textview_margin_end">8dp</dimen>
+    <dimen name="search_detail_textview_size">18sp</dimen>
+    <dimen name="rec_view_item_height">140dp</dimen>
+    <dimen name="rec_view_search_item_margin_top">8dp</dimen>
+    <dimen name="rec_view_search_item_margin">8dp</dimen>
+    <dimen name="rec_view_search_item_drawable_padding">6dp</dimen>
+    <dimen name="rec_view_search_item_margin_bottom">8dp</dimen>
+    <dimen name="rec_view_search_item_margin_start">8dp</dimen>
+    <dimen name="rec_view_subscriber_item_height">60dp</dimen>
+    <dimen name="rec_view_subscriber_item_padding">10dp</dimen>
+    <dimen name="rec_view_subscriber_item_margin_start">8dp</dimen>
+    <dimen name="rec_view_subscriber_item_margin_end">8dp</dimen>
+    <dimen name="rec_view_item_normal_text_size">16sp</dimen>
+    <dimen name="rec_view_item_small_text_size">14sp</dimen>
+    <dimen name="rec_view_item_layout_padding">8dp</dimen>
+    <dimen name="rec_view_image_width">80dp</dimen>
+    <dimen name="rec_view_image_height">80dp</dimen>
+
+
+    <dimen name="_25dp">25dp</dimen>
+    <dimen name="_20dp">20dp</dimen>
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="_5dp">5dp</dimen>
+    <dimen name="_15dp">15dp</dimen>
+
+    <!--sp values-->
+    <dimen name="_20sp">20sp</dimen>
+    <dimen name="_18sp">18sp</dimen>
+    <dimen name="_16sp">16sp</dimen>
+</resources>
