@@ -43,8 +43,6 @@ MVVM,Navigation,Coroutines,LiveData,Viewmodel,Retrofit,Picasso,Lifecycle etc
 
 
 
-********** Thanks for letting me to take part in this test. I was glad i could take it. **********
-
 
 
 
